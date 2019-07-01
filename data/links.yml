@@ -1,7 +1,7 @@
 tiles:
 -
-  name: "作者のサイト"
-  url: "https://google.com"
+  name: "参考サイト"
+  url: "http://hajimete-program.com/blog/2017/02/23/github%e3%81%aepush%e3%81%a7%e3%80%81remotepermission-to-xxxx-denied-to-xxxx%e3%81%8c%e7%99%ba%e7%94%9f%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%ae%e5%af%be%e5%bf%9c%e6%96%b9%e6%b3%95/"
   img: "logos/Penguins.jpg"
   tags: []
 -
