@@ -22,14 +22,19 @@ icon = "quora"
 [[ params.nav ]]
 name = "Laravel"
 tag = "laravel"
-icon = "laravel"
+icon = "lastfm"
 
 [[ params.nav ]]
 name = "Javascript"
 tag = "javascript"
-icon = "js"
+icon = "eject"
 
 [[ params.nav ]]
 name = "Python"
 tag = "python"
-icon = "python"
+icon = "cubes"
+
+[[ params.nav ]]
+name = "Vue.js"
+tag = "vue"
+icon = "vimeo-square"

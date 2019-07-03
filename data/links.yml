@@ -73,7 +73,7 @@ tiles:
   img: "logos/twitter.svg"
   bg_color: "#1da1f2"
   txt_color: "#f5f8fa"
-  tags: ["qiita"]
+  tags: ["qiita","vue"]
 -
   name: "[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて"
   url: "https://qiita.com/kozzy/items/b42ba59a8bac190a16ab?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=d4b326c10b-Qiita_newsletter_353_03_13_2019&utm_medium=email&utm_term=0_e44feaa081-d4b326c10b-34215537"
@@ -112,7 +112,7 @@ tiles:
   name: "ReactにするかVue.jsにするか、jQueryだけ触っていたエンジニアがサンプル作って比較してみた"
   url: "https://qiita.com/ykyk1218/items/a252b04c4859446c3fc1"
   img: "logos/google.svg"
-  tags: ["qiira", "vue", "react"]
+  tags: ["qiita", "vue", "react"]
 -
   name: "Pythonでこんなことできちゃうんです＊ゆっくり更新＊ - Qiita"
   url: "https://qiita.com/Namibillow/items/954c7f9f53682d6dd9c9?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=2fdded3086-Qiita_newsletter_335_10_31_2018&utm_medium=email&utm_term=0_e44feaa081-2fdded3086-34215537"
@@ -211,7 +211,7 @@ tiles:
   name: "JavaScript開発環境をNetBeansからVisual Studio Codeに切り替えた話  なたで日記"
   url: "https://blog.natade.net/2018/10/19/javascript%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83-netbeans-vscode-eslint/"
   img: "logos/google.svg"
-  tags: ["javascript", "searvscodech"]
+  tags: ["javascript", "vscode"]
 -
   name: "Hugo を GitHub Pages でホストする方法を考える · Yutaka 🍊 Kato"
   url: "https://mikan.github.io/2017/11/03/hugo-on-gh-pages/"
