@@ -1,106 +1,229 @@
 tiles:
 -
-  name: "参考サイト"
-  url: "http://hajimete-program.com/blog/2017/02/23/github%e3%81%aepush%e3%81%a7%e3%80%81remotepermission-to-xxxx-denied-to-xxxx%e3%81%8c%e7%99%ba%e7%94%9f%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%ae%e5%af%be%e5%bf%9c%e6%96%b9%e6%b3%95/"
+  name: "Ｗindows7でAnsible+Vagrantを使ってubuntu+Nginx環境構築"
+  url: "https://owani.net/vagrant/ansible/323/"
   img: "logos/Penguins.jpg"
-  tags: []
+  tags: ["vagrant"]
 -
-  name: "bing"
-  url: "https://bing.com"
+  name: "第66回 「TortoiseGit」のよく使うメニューと概要"
+  url: "http://coding-factory.com/cm/cm66.html"
   img: "logos/bing.svg"
   txt_color: "#ffffff"
   bg_color: "#ffb900"
-  tags: ["search"]
+  tags: ["git"]
 -
-  name: "amazon"
-  url: "https://amazon.com"
+  name: "日々プロキシで苦しむ人の為のプロキシ設定まとめ - Qiita"
+  url: "https://qiita.com/uzresk/items/bc7c4a9dc764390cd5ce"
   img: "logos/amazon.svg"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
-  tags: ["favorite", "shopping"]
+  tags: ["proxy", "qiita"]
 -
-  name: "reddit"
-  url: "https://reddit.com"
+  name: "仮想開発環境を構築-5.Eclipseでデバッグしよう エンジニア婦人ノート"
+  url: "https://wm-web-se-pg.com/program_info/hyper-v-laravel-5-eclipse/"
   img: "logos/reddit.svg"
   bg_color: "#5f99cf"
   txt_color: "#ffffff"
+  tags: ["laravel"]
 -
-  name: "spotify"
-  url: "https://web.spotify.com"
+  name: "世の中の小説作家と編集者は今すぐ Word や G Suite を窓から投げ捨てて Git と GitHub の使い方を覚えるべきだ - Qiita"
+  url: "https://qiita.com/ktkraoichi/items/f6ad43c2da0b3136d6be?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=0f7ecd62ef-Qiita_newsletter_344_01_09_2019&utm_medium=email&utm_term=0_e44feaa081-0f7ecd62ef-34215537"
   img: "logos/spotify.svg"
   bg_color: "#191414"
   txt_color: "#1db954"
-  tags: ["favorite", "music"]
+  tags: ["git", "qiita"]
 -
-  name: "google music"
-  url: "https://play.google.com/music/listen"
+  name: "モダンなJava開発ガイド (2018年版)"
+  url: "https://qiita.com/yoichiwo7/items/17190cb440ab7d253cea?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=9f45bdf907-Qiita_newsletter_325_08_29_2018&utm_medium=email&utm_term=0_e44feaa081-9f45bdf907-34215537"
   img: "logos/google-music.png"
   bg_color: "#ffffff"
   txt_color: "#ff5722"
-  tags: ["music"]
+  tags: ["qiita", "java"]
 -
-  name: "pandora"
-  url: "https://pandora.com"
+  name: "ぼくのかんがえたさいきょうの配色Webサービスを公開した話 - Qiita"
+  url: "https://qiita.com/azukisiromochi/items/4d07e1b247baed01f11b?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=454658ca85-Qiita_newsletter_346_01_30_2019&utm_medium=email&utm_term=0_e44feaa081-454658ca85-34215537"
   img: "logos/pandora.svg"
   bg_color: "#005483"
   txt_color: "#ffffff"
-  tags: ["music"]
+  tags: ["qiita"]
 -
-  name: "soundcloud"
-  url: "https://soundcloud.com"
+  name: "なんとなくVue.jsのUIフレームワークを紹介する - Qiita"
+  url: "https://qiita.com/yusuke_ten/items/4103f032dd0c6fbe5607?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=d4b326c10b-Qiita_newsletter_353_03_13_2019&utm_medium=email&utm_term=0_e44feaa081-d4b326c10b-34215537"
   img: "logos/soundcloud.svg"
   bg_color: "#ffffff"
   txt_color: "#ff3300"
-  tags: ["music"]
+  tags: ["qiita", "vue"]
 -
-  name: "wikipedia"
-  url: "https://wikipedia.org"
+  name: "たった一行で重いスクロールが軽快に！will-change属性をつけるだけでFPSが爆上がりするという話。 - Qiita"
+  url: "https://qiita.com/ttiger55/items/b2423cb72668c3c98d89?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=454658ca85-Qiita_newsletter_346_01_30_2019&utm_medium=email&utm_term=0_e44feaa081-454658ca85-34215537"
   img: "logos/wikipedia.svg"
   bg_color: "#ffffff"
   txt_color: "#000000"
+  tags: ["qiita", "css"]
 -
-  name: "ebay"
-  url: "https://ebay.com"
+  name: "【保存版】言語別Youtubeおすすめチャンネル"
+  url: "https://qiita.com/gjfcgmi/items/a8b55a0a6d4578abac66?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=78de5bac45-Qiita_newsletter_334_10_24_2018&utm_medium=email&utm_term=0_e44feaa081-78de5bac45-34215537"
   img: "logos/ebay.svg"
   bg_color: "#ffffff"
   txt_color: "#000000"
-  tags: ["shopping"]
+  tags: ["qiita"]
 -
-  name: "twitter"
-  url: "https://twitter.com"
+  name: "「Vueコンサルが教えたくない７つの真実」を勉強してみた"
+  url: "https://qiita.com/shinobu_shiva/items/e0c458aa6c1e683a9881?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=c89030d667-Qiita_newsletter_330_09_26_2018&utm_medium=email&utm_term=0_e44feaa081-c89030d667-34215537"
   img: "logos/twitter.svg"
   bg_color: "#1da1f2"
   txt_color: "#f5f8fa"
+  tags: ["qiita"]
 -
-  name: "twitch"
-  url: "https://twitch.com"
+  name: "[ver 1.2] Git でよく使われるコマンドにイラストによる説明を加えて"
+  url: "https://qiita.com/kozzy/items/b42ba59a8bac190a16ab?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=d4b326c10b-Qiita_newsletter_353_03_13_2019&utm_medium=email&utm_term=0_e44feaa081-d4b326c10b-34215537"
   img: "logos/twitch.svg"
   bg_color: "#f1f1f1"
   txt_color: "#6441a5"
-  tags: ["video"]
+  tags: ["qiita", "git"]
 -
-  name: "youtube"
-  url: "https://youtube.com"
+  name: "Vue + Vue Router + Vuex + Laravel チュートリアル（全16回）を書きました。 - Qiita"
+  url: "https://qiita.com/MasahiroHarada/items/2597bd6973a45f92e1e8?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=454658ca85-Qiita_newsletter_346_01_30_2019&utm_medium=email&utm_term=0_e44feaa081-454658ca85-34215537"
   img: "logos/youtube.svg"
   bg_color: "#ffffff"
   txt_color: "#cd201f"
-  tags: ["video"]
+  tags: ["qiita", "vue", "Laravel"]
 -
-  name: "netflix"
-  url: "https://netflix.com"
+  name: "VSCodeのオススメ拡張機能 24選 (とTipsを少し)"
+  url: "https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=78de5bac45-Qiita_newsletter_334_10_24_2018&utm_medium=email&utm_term=0_e44feaa081-78de5bac45-34215537"
   img: "logos/netflix.svg"
   bg_color: "#221f1f"
   txt_color: "#e50914"
-  tags: ["video"]
+  tags: ["qiita", "vscode"]
 
 -
-  name: "imgur"
-  url: "https://imgur.com"
+  name: "TortoiseGitでバージョン管理をするための基礎勉強 バージョン管理システム入門(初心者向け)"
+  url: "https://tracpath.com/bootcamp/learning_tortoisegit.html"
   img: "logos/imgur.svg"
   bg_color: "#ffffff"
   txt_color: "#85bf25"
+  tags: ["git"]
+-
+  name: "SVNな現場で自分だけGitを使う方法 - Qiita"
+  url: "https://qiita.com/suzuq/items/f236672bbad7e3b354b2"
+  img: "logos/google.svg"
+  tags: ["qiita", "git"]
+-
+  name: "ReactにするかVue.jsにするか、jQueryだけ触っていたエンジニアがサンプル作って比較してみた"
+  url: "https://qiita.com/ykyk1218/items/a252b04c4859446c3fc1"
+  img: "logos/google.svg"
+  tags: ["qiira", "vue", "react"]
+-
+  name: "Pythonでこんなことできちゃうんです＊ゆっくり更新＊ - Qiita"
+  url: "https://qiita.com/Namibillow/items/954c7f9f53682d6dd9c9?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=2fdded3086-Qiita_newsletter_335_10_31_2018&utm_medium=email&utm_term=0_e44feaa081-2fdded3086-34215537"
+  img: "logos/google.svg"
+  tags: ["qiita", "python"]
+-
+  name: "Python 割と使うライブラリ集 - Qiita"
+  url: "https://qiita.com/ryuichi1208/items/cb5f850a9811d2a4bc3a?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=392b508ca1-Qiita_newsletter_342_12_25_2018&utm_medium=email&utm_term=0_e44feaa081-392b508ca1-34215537"
+  img: "logos/google.svg"
+  tags: ["qiita", "python"]
+-
+  name: "PHPフレームワークLaravel5.5チュートリアル、CRUD一回り作ってみる – 名古屋のWebシステム開発　iNet Solutions"
+  url: "https://www.inet-solutions.jp/technology/laravel-tutorial/"
+  img: "logos/google.svg"
+  tags: ["laravel"]
+-
+  name: "EclipseにPDTを入れてLaravelのプロジェクトをインポートする手"
+  url: "https://itsakura.com/eclipse-pdt-laravel"
+  img: "logos/google.svg"
+  tags: ["laravel"]
+-
+  name: "【Laravel超入門】開発環境の構築（VirtualBox + Vagrant + Homestead + Composer） - Qiita"
+  url: "https://qiita.com/7968/items/97dd634608f37892b18a"
+  img: "logos/google.svg"
+  tags: ["qiita", "laravel"]
+-
+  name: "Laravel 開発環境の構築 ( VirtualBox + Vagrant + Homestead + Composer + Eclipse ) 第1回 -前編- - Qiita"
+  url: "https://qiita.com/slangsoft/items/21e5cc5015ff71e2f741"
+  img: "logos/google.svg"
+  tags: ["qiita", "laravel"]
+-
+  name: "Windows10でLaravel Homestead環境構築 - Qiita"
+  url: "https://qiita.com/ricoirico/items/9745160bcf9983fa30ad"
+  img: "logos/google.svg"
+  tags: ["qiita", "laravel"]
+-
+  name: "Jenkinsに代わるGo製OSS CIツールDrone - LINE ENGINEERING"
+  url: "https://engineering.linecorp.com/ja/blog/go-oss-ci-tool-drone-replaces-jenkins/"
+  img: "logos/google.svg"
+  tags: ["ci"]
+-
+  name: "GitでProxyの設定を行ってエラー回避する方法  gitの使い方講座"
+  url: "https://git-manual.net/git-proxy-error/"
+  img: "logos/google.svg"
+  tags: ["git", "proxy"]
+-
+  name: "Docker入門（第六回）〜Docker Compose〜  さくらのナレッジ"
+  url: "https://knowledge.sakura.ad.jp/16862/"
+  img: "logos/google.svg"
+  tags: ["docker"]
+-
+  name: "Docker ComposeでWordPressを構築する[WordPress]"
+  url: "https://noumenon-th.net/programming/2019/04/05/docker-wordpress/"
+  img: "logos/google.svg"
+  tags: ["docker"]
+-
+  name: "Amazon S3+お名前.comで独自ドメインのサイトを無料でHTTPS化する方法 - あるSEのつぶやき・改"
+  url: "https://www.aruse.net/entry/2018/10/07/234826"
+  img: "logos/google.svg"
+  tags: ["aws"]
+-
+  name: "S3でサブドメインとSSLを使って静的ホスティングにチャレンジ"
+  url: "https://kuronyankotan.com/?p=1513"
+  img: "logos/google.svg"
+  tags: ["aws"]
+-
+  name: "JavaScript - フロントエンドの必要性について｜teratail"
+  url: "https://teratail.com/questions/138648"
+  img: "logos/google.svg"
+  tags: ["javascript"]
+-
+  name: "この書籍について · JavaScriptの入門書 #jsprimer"
+  url: "https://jsprimer.net/"
+  img: "logos/google.svg"
+  tags: ["javascript"]
+-
+  name: "現代の JavaScript チュートリアル"
+  url: "https://ja.javascript.info/"
+  img: "logos/google.svg"
+  tags: ["javascript"]
+-
+  name: "GCPとWordPressでブログを始めよう！完全図解で初心者も安心！  解釈の向こう側"
+  url: "https://mcmrc.net/posts/gcp-wp-blog-startup/"
+  img: "logos/google.svg"
+-
+  name: "Python開発環境メモ（2019） - ぽよメモ"
+  url: "https://poyo.hatenablog.jp/entry/2019/03/19/133350#Conda"
+  img: "logos/google.svg"
+  tags: ["python"]
+-
+  name: "Hugo を使ったウェブサイトの作成 テストサイトの表示"
+  url: "https://astropengu.in/blog/15/"
+  img: "logos/google.svg"
+  tags: ["hugo"]
+-
+  name: "JavaScript開発環境をNetBeansからVisual Studio Codeに切り替えた話  なたで日記"
+  url: "https://blog.natade.net/2018/10/19/javascript%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83-netbeans-vscode-eslint/"
+  img: "logos/google.svg"
+  tags: ["javascript", "searvscodech"]
+-
+  name: "Hugo を GitHub Pages でホストする方法を考える · Yutaka 🍊 Kato"
+  url: "https://mikan.github.io/2017/11/03/hugo-on-gh-pages/"
+  img: "logos/google.svg"
+  tags: ["hugo", "github"]
+-
+  name: "githubのpushで、remotePermission to xxxx denied to xxxxが発生するときの対応方法  はじめてプログラム"
+  url: "http://hajimete-program.com/blog/2017/02/23/github%E3%81%AEpush%E3%81%A7%E3%80%81remotepermission-to-xxxx-denied-to-xxxx%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%AF%BE%E5%BF%9C%E6%96%B9%E6%B3%95/"
+  img: "logos/google.svg"
+  tags: ["git", "github"]
 -
   name: "google"
-  url: "https://google.com"
+  url: "https://www.google.co.jp/"
   img: "logos/google.svg"
   tags: ["favorite", "search"]

@@ -10,26 +10,26 @@ Favicon = "favicon.ico"
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
-name = "favorites"
-tag = "favorite"
-icon = "star"
+name = "Git"
+tag = "git"
+icon = "git"
 
 [[ params.nav ]]
-name = "search"
-tag = "search"
-icon = "search"
+name = "Qiita"
+tag = "qiita"
+icon = "quora"
 
 [[ params.nav ]]
-name = "shopping"
-tag = "shopping"
-icon = "shopping-basket"
+name = "Laravel"
+tag = "laravel"
+icon = "laravel"
 
 [[ params.nav ]]
-name = "music"
-tag = "music"
-icon = "headphones"
+name = "Javascript"
+tag = "javascript"
+icon = "js"
 
 [[ params.nav ]]
-name = "video"
-tag = "video"
-icon = "expand"
+name = "Python"
+tag = "python"
+icon = "python"
