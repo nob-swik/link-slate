@@ -223,6 +223,20 @@ tiles:
   img: "logos/google.svg"
   tags: ["git", "github"]
 -
+  name: "【入門】 reactチュートリアル｜宮川 竜太朗｜note"
+  url: "https://note.mu/dragontaro/n/n04e0b9c0cca7"
+  img: "logos/google.svg"
+  tags: ["javascript", "react"]
+-
+  name: "これからReactを勉強する人が最初に見るべきスライド７選  UX MILK"
+  url: "https://uxmilk.jp/43555"
+  img: "logos/google.svg"
+  tags: ["javascript", "react"]
+-
+  name: "【比較あり】Web制作のモックアップツールならmoqupsが神【愛用】"
+  url: "https://manablog.org/moqups/"
+  img: "logos/google.svg"
+-
   name: "google"
   url: "https://www.google.co.jp/"
   img: "logos/google.svg"
