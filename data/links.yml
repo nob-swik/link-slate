@@ -228,10 +228,10 @@ tiles:
   img: "logos/google.svg"
   tags: ["javascript", "react"]
 -
-  name: "これからReactを勉強する人が最初に見るべきスライド７選  UX MILK"
-  url: "https://uxmilk.jp/43555"
-  img: "logos/google.svg"
-  tags: ["javascript", "react"]
+  name: "HUGO のテーマ Robust のカスタマイズver3"
+  url: "https://blog.zzzmisa.com/customize_hugo_theme3/"
+  img: "logos/amazon.svg"
+  tags: ["hugo"]
 -
   name: "【比較あり】Web制作のモックアップツールならmoqupsが神【愛用】"
   url: "https://manablog.org/moqups/"
