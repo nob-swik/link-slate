@@ -237,6 +237,11 @@ tiles:
   url: "https://manablog.org/moqups/"
   img: "logos/google.svg"
 -
+  name: "React+TypeScriptに入門した – ひげろぐ"
+  url: "https://higelog.brassworks.jp/2847"
+  img: "logos/google.svg"
+  tags: ["javascript", "react"]
+-
   name: "google"
   url: "https://www.google.co.jp/"
   img: "logos/google.svg"
