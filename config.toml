@@ -10,31 +10,31 @@ Favicon = "favicon.ico"
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
-name = "Git"
-tag = "git"
-icon = "git"
-
-[[ params.nav ]]
 name = "Qiita"
 tag = "qiita"
 icon = "quora"
 
 [[ params.nav ]]
-name = "Laravel"
-tag = "laravel"
-icon = "lastfm"
+name = "PHP"
+tag = "PHP"
+icon = "p"
 
 [[ params.nav ]]
 name = "Javascript"
 tag = "javascript"
-icon = "eject"
+icon = "js"
 
 [[ params.nav ]]
-name = "Python"
-tag = "python"
-icon = "cubes"
+name = "SQL"
+tag = "SQL"
+icon = "database"
 
 [[ params.nav ]]
-name = "Vue.js"
-tag = "vue"
-icon = "vimeo-square"
+name = "React"
+tag = "react"
+icon = "react"
+
+[[ params.nav ]]
+name = "OTHERS"
+tag = "others"
+icon = "asterisk"
