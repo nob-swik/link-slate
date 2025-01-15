@@ -1,0 +1,7 @@
+#!/bin/bash
+
+commit_message=$(cat "$1")
+if ! echo "$commit_message" | grep -qE '^(feat|fix)((.+))?: .+'; then
+  echo "Error: Commit message must start with 'feat:' or 'fix:'"
+  exit 1
+fi
