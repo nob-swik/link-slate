@@ -1,0 +1,22 @@
+name: Commit Message Lint
+
+on: push
+
+jobs:
+  commit-message-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Lint commit messages
+        run: |
+          COMMITS=$(git log --format=%B --no-merges -n 10)
+          echo "$COMMITS" | while read -r COMMIT_MSG; do
+            if ! echo "$COMMIT_MSG" | grep -qE "^(feat|fix|docs|style|refactor|test|chore)((.+))?: .{1,50}$"; then
+              echo "Error: Commit message does not follow the format 'type: short description'."
+              echo "Allowed types: feat, fix, docs, style, refactor, test, chore."
+              exit 1
+            fi
+          done
