@@ -15,7 +15,7 @@ jobs:
           COMMITS=$(git log --format=%B --no-merges -n 10)
           echo "$COMMITS" | while read -r COMMIT_MSG; do
             if ! echo "$COMMIT_MSG" | grep -qE "^(feat|fix|docs|style|refactor|test|chore)((.+))?: .{1,50}$"; then
-              echo "Error: Commit message does not follow the format 'type: short description'."
+              echo "Error: Commit message does not follow the format 'type(scope): short description'."
               echo "Allowed types: feat, fix, docs, style, refactor, test, chore."
               exit 1
             fi
